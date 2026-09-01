@@ -1,0 +1,27 @@
+<Solution>
+  <Project Path="Classes/Classes.csproj" />
+  <Project Path="Construtores/Construtores.csproj" />
+  <Project Path="Enumeracao_ENUM/Enumeracao_ENUM.csproj" Id="7e02f35a-b2b1-469d-be1b-43a251b9d55d" />
+  <Project Path="ExemploPratico/ExemploPratico.csproj" Id="43096d19-1c22-47aa-9606-6785d9a74624" />
+  <Project Path="Exercicios_1/Exercicios_01.csproj" Id="9715ecb7-f076-4e8b-a000-b46cb5017b1f" />
+  <Project Path="Exercicios_10/Exercicios_09.csproj" Id="941d2537-fcd9-4669-be5f-74569a9e054e" />
+  <Project Path="Exercicios_10/Exercicios_10.csproj" Id="6b5b449b-2807-43f0-b988-2afd75d1772d" />
+  <Project Path="Exercicios_11/Exercicios_11.csproj" Id="e9998328-a9ed-4786-a662-60e61a84812c" />
+  <Project Path="Exercicios_3/Exercicios_03.csproj" Id="08c141fb-29b1-4f3f-a060-669bb391a908" />
+  <Project Path="Exercicios_4/Exercicios_04.csproj" Id="42072bfe-3c66-4dda-9583-56f2ae9baa75" />
+  <Project Path="Exercicios_5/Exercicios_05.csproj" Id="2ae21d6e-7675-4936-96c4-23cf7f917dca" />
+  <Project Path="Exercicios_6/Exercicios_06.csproj" Id="03006aa4-c99c-4e9f-9e2a-0406ae8a0e40" />
+  <Project Path="Exercicios_7/Exercicios_07.csproj" Id="20ff6686-03e6-4d81-a87f-509d90204de4" />
+  <Project Path="Exercicios_8/Exercicios_08.csproj" Id="03590361-cd05-4ceb-9d89-f741b394e1a2" />
+  <Project Path="Exercicio_2/Exercicios_02.csproj" Id="351bcd3b-a59e-4bca-91f0-075381bbed86" />
+  <Project Path="Metodos/Metodos.csproj" />
+  <Project Path="MetodosComRetorno/MetodosComRetorno.csproj" Id="0209974a-1f29-4e1d-aafe-256eaaec18fd" />
+  <Project Path="MetodosEstaticos/MetodosEstaticos.csproj" Id="bfcd57bb-d8b0-424d-a1b8-ea5bbf2fae9a" />
+  <Project Path="ModificadoresDeAcesso/ModificadoresDeAcesso.csproj" Id="1c8d0466-070a-4201-9016-1c50de7ab826" />
+  <Project Path="PartialClass/PartialClass.csproj" Id="42a93a9e-3ba7-4c3f-9fff-4dedde106c2a" />
+  <Project Path="PassagemDeArgumentos/PassagemDeArgumentos.csproj" Id="9f035a3f-8689-4553-9448-0d32996d822d" />
+  <Project Path="Propriedades/Propriedades.csproj" Id="b3970c17-5234-46d2-99f7-796084767454" />
+  <Project Path="Struct/Struct.csproj" Id="0dedee78-8dff-4fef-af1b-3988931e4985" />
+  <Project Path="TiposAnonimos/TiposAnonimos.csproj" Id="7d6dcd6b-3a47-49ce-9b2f-4946e3892e19" />
+  <Project Path="TratamentoDeExcecoes/TratamentoDeExcecoes.csproj" Id="e2aa5c05-dbd5-4a0a-980f-cf9790f8426f" />
+</Solution>

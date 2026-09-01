@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="ArrayList/ArrayList.csproj" Id="d4d701e9-bb39-491c-9915-0a740f557910" />
+  <Project Path="Arrays/Arrays.csproj" />
+  <Project Path="ClasseRandom/ClasseRandom.csproj" Id="7af7f469-7a0f-48ba-877a-8a7fd802fff2" />
+  <Project Path="Exercicios_01/Exercicios_01.csproj" />
+  <Project Path="Exercicios_02/Exercicios_02.csproj" Id="7282d387-6664-4462-b5e0-0946503f46d7" />
+  <Project Path="Exercicios_03/Exercicios_03.csproj" Id="349a97ff-448c-4a69-90a2-27e67cadfa5b" />
+  <Project Path="Exercicios_04/Exercicios_04.csproj" Id="5505421e-5766-48f5-a5dd-295806d85366" />
+  <Project Path="List/List.csproj" Id="671d52a4-6140-4f0f-a62a-4708df708e14" />
+</Solution>

@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Dictionary/Dictionary.csproj" Id="96dd30d1-0edf-4a3a-8989-f0f42b4d28d0" />
+  <Project Path="Exercicios_01/Exercicios_01.csproj" Id="c3b0e055-4319-4d40-85d1-bdfd68874290" />
+  <Project Path="Exercicios_02/Exercicios_02.csproj" Id="e6333939-5952-45b5-a4da-a54a02df932f" />
+  <Project Path="Exercicios_04/Exercicios_04.csproj" Id="f8ffab66-9b48-4faf-915d-ecb340c1687f" />
+  <Project Path="Exercicios_05/Exercicios_05.csproj" Id="b4be899b-363c-4b6f-8065-fc4003ecb169" />
+  <Project Path="Exercicio_03/Exercicios_03.csproj" Id="c8d3335f-292c-4a6e-80e0-a2f20065870e" />
+  <Project Path="Generics/Generics.csproj" />
+  <Project Path="HashSet/HashSet.csproj" Id="d5064fe9-7e57-4911-97cf-2b9e27a2392c" />
+  <Project Path="Queue/Queue.csproj" Id="b416a883-450d-49cb-9ce8-2357de53f60a" />
+  <Project Path="ReadOnlyCollection/ReadOnlyCollection.csproj" Id="dc29ba10-27d2-4972-a46c-83f60bbcbcca" />
+  <Project Path="Stack/Stack.csproj" Id="040023e7-5e78-4327-8441-2b54dd1556d4" />
+</Solution>

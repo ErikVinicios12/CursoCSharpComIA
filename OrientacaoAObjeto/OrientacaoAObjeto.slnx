@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Abstracao/Abstracao.csproj" Id="1e59e42f-749f-45a3-a6a4-b6b780173c81" />
+  <Project Path="Agregacao/Agregacao.csproj" Id="db27fa4e-6cff-48ca-bedb-3a12363a5a36" />
+  <Project Path="Exercicios_01/Exercicios_01.csproj" />
+  <Project Path="Exercicios_02/Exercicios_02.csproj" Id="df563eda-051c-40fb-8a7a-1f13b5170795" />
+  <Project Path="Exercicios_03/Exercicios_03.csproj" Id="e35e7028-0a9f-4ba2-bb92-fc056bfdc2c3" />
+  <Project Path="Heranca/Heranca.csproj" />
+  <Project Path="Interface/Interface.csproj" Id="5d9267de-2b85-4d4c-befe-7e782b20e381" />
+  <Project Path="Is_As/Is_As.csproj" Id="15fe92f8-b30c-47cc-93fe-68cc4281b79f" />
+  <Project Path="Polimorfismo/Polimorfismo.csproj" Id="d1651b6c-b10f-4bbc-a669-20cfed99202d" />
+</Solution>

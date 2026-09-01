@@ -1,0 +1,26 @@
+<Solution>
+  <Project Path="Constantes1/Constantes1.csproj" Id="ceec7cd5-b2d6-4bf8-89b9-0754784e9cf9" />
+  <Project Path="ConversaoTipos1/ConversaoTipos1.csproj" Id="3c82c8ad-22e0-40b9-b1ef-00701ae1486c" />
+  <Project Path="ConversaoTipos2/ConversaoTipos2.csproj" Id="8ea7dfe3-99d5-4b37-8af7-2a795dfaef72" />
+  <Project Path="EntradaDeDados/EntradaDeDados.csproj" Id="d726b1d7-8df2-416a-8756-655d9225cb2d" />
+  <Project Path="Exercicios_Fase1/Exercicios_Fase1.csproj" Id="c39e1753-1f8b-4062-ae58-4869a2f07f63" />
+  <Project Path="Exercicios_Fase2/Exercicios_Fase2.csproj" Id="5211429c-b83f-4fd2-853f-d51bc0eeb65c" />
+  <Project Path="Identificadores/Identificadores.csproj" Id="e7d54b4c-6e42-4d78-b1da-df9bc6427037" />
+  <Project Path="InferenciaTipos1/InferenciaTipos1.csproj" Id="19848097-b709-43dc-b017-eef33ec2744a" />
+  <Project Path="NullableTypes1/NullableTypes1.csproj" />
+  <Project Path="OperadoresAritmeticos/OperadoresAritmeticos.csproj" Id="84e82a17-2bbe-4d9b-a3d7-a37afb705a09" />
+  <Project Path="OperadoresAtribuicao1/OperadoresAtribuicao1.csproj" Id="06a4cbe4-9ead-404b-b4e9-ce70146d7a6a" />
+  <Project Path="OperadoresIncrementoDecremento/OperadoresIncrementoDecremento.csproj" Id="e3be5b2d-dd25-4013-8dc2-9714f0de03a5" />
+  <Project Path="OperadoresLogicos1/OperadoresLogicos1.csproj" Id="64b71f4f-b5bd-44bd-a344-a4239b6db68a" />
+  <Project Path="OperadoresRelacionais1/OperadoresRelacionais1.csproj" Id="c9e622e3-0135-4a81-b5a4-aad1b64e92be" />
+  <Project Path="OperadorUniarioTernario1/OperadorUniarioTernario1.csproj" Id="e0ea34e1-8ac2-46f5-9afe-80333e5c486e" />
+  <Project Path="PrecedenciaOperadores1/PrecedenciaOperadores1.csproj" Id="64e8abee-f338-424e-aea4-8fb133328b7d" />
+  <Project Path="SaidaDados/SaidaDados.csproj" Id="3bcf4917-3fb4-4023-8b82-7e17750064a3" />
+  <Project Path="SaidaDados2/SaidaDados2.csproj" Id="6213f197-9411-439c-a70f-08cddca78164" />
+  <Project Path="TipoDateTime1/TipoDateTime1.csproj" />
+  <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
+  <Project Path="TiposDeDados2/TiposDeDados2.csproj" />
+  <Project Path="TiposDeDados3/TiposDeDados3.csproj" />
+  <Project Path="TiposDeDados4/TiposDeDados4.csproj" />
+  <Project Path="TiposReferenciaAnulaveis/TiposReferenciaAnulaveis.csproj" Id="cda8cb7f-678e-4439-bc2f-bd17d927a381" />
+</Solution>

@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Estrutura_GoTo_label/Instrucao_GoTo_label.csproj" />
+  <Project Path="Estrutura_IF/Estrutura_IF.csproj" />
+  <Project Path="Estrutura_IF_ELSE/Estrutura_IF_ELSE.csproj" />
+  <Project Path="Estrutura_IF_ELSE_IF/Estrutura_IF_ELSE_IF.csproj" />
+  <Project Path="Estrutura_SWITCH/Estrutura_SWITCH.csproj" />
+  <Project Path="Estrutura_WHILE/Instrucao_WHILE.csproj" />
+  <Project Path="Exercicios/Exercicios.csproj" Id="961f2852-7e24-4ac4-a1ef-6a2efb911073" />
+  <Project Path="Instrucao_BREAK-CONTINUE/Instrucao_BREAK-CONTINUE.csproj" Id="78acc4c8-55e7-4db2-a6f5-3679b21e4313" />
+  <Project Path="Instrucao_DO-WHILE/Instrucao_DO-WHILE.csproj" />
+  <Project Path="Instrucao_FOR/Instrucao_FOR.csproj" />
+</Solution>
