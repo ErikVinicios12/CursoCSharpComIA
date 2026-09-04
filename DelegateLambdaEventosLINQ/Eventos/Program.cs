@@ -7,4 +7,4 @@ Pedido pedido = new Pedido();
 pedido.onCriarPedido += Email.EnviarEmail; // Adiciona o método EnviarEmail ao evento onCriarPedido
 pedido.onCriarPedido += SMS.EnviarSMS; // Adiciona o método EnviarSMS ao evento onCriarPedido
 
-pedido.CriarPedido();
+pedido.CriarPedido("joao@example.com", "123456789");

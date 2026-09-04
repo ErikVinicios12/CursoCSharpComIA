@@ -2,4 +2,6 @@
   <Project Path="Delegate/Delegate.csproj" />
   <Project Path="Eventos/Eventos.csproj" />
   <Project Path="Exercicios_01/Exercicios_01.csproj" />
+  <Project Path="LINQ/LINQ.csproj" Id="0070bac0-86cd-49d6-a044-6179b66d9967" />
+  <Project Path="MetodosDeExtensao/MetodosDeExtensao.csproj" Id="93f52399-c121-467b-ab02-d9785f1c9ea6" />
 </Solution>
