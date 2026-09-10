@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="ClasseFile/ClasseFile.csproj" />
+  <Project Path="ClasseFileInfo/ClasseFileInfo.csproj" />
+  <Project Path="Diretory/Diretory.csproj" />
+  <Project Path="DiretoryInfo/DiretoryInfo.csproj" />
+  <Project Path="Exercicios_01/Exercicios_01.csproj" Id="a3dfdf9e-8434-4e76-ae26-215ce81e229c" />
+  <Project Path="Exercicios_02/Exercicios_02.csproj" Id="b3d8e626-92eb-4e57-9dbb-fe39d7d1db20" />
+  <Project Path="Exercicios_03/Exercicios_03.csproj" Id="ef026587-56f8-4962-a6c1-c8f9882ee5c2" />
+  <Project Path="Path/Path.csproj" />
+  <Project Path="Stream/Stream.csproj" Id="85863bfb-9fbe-4128-bdee-3b9ecf8aa87e" />
+</Solution>
