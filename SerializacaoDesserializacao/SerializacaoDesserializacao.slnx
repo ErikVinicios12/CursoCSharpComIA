@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Exercicios_01/Exercicios_01.csproj" />
+  <Project Path="SerializacaoBinaria/SerializacaoBinaria.csproj" />
+  <Project Path="SerializacaoJSON/SerializacaoJSON.csproj" />
+  <Project Path="SerializacaoXML/SerializacaoXML.csproj" />
+</Solution>
